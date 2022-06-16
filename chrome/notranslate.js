@@ -1,3 +1,4 @@
+// notranslateをつけたい要素のセレクタを列挙
 const selectors = [
   "adiv.prism-code",
   "div.enlighter-overflow-scroll",
